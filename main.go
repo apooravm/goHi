@@ -28,6 +28,7 @@ func main() {
 		text_top += "_"
 		text_bottom += "-"
 	} 
+	
     fmt.Println(text_top)
     fmt.Println(text)
     fmt.Println(text_bottom)
